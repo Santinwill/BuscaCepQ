@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/05/13 08:51:28.162,=C:\Users\willian_p_santin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/13 08:58:27.300,C:\Users\willian_p_santin\Desktop\delphi\buscaCep\ConsultaCep.dfm=C:\Users\willian_p_santin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/13 08:58:27.300,C:\Users\willian_p_santin\Desktop\delphi\buscaCep\ConsultaCep.pas=C:\Users\willian_p_santin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/13 08:58:53.690,C:\Users\willian_p_santin\Desktop\delphi\buscaCep\ConsultaCepPrj.dproj=C:\Users\willian_p_santin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/13 10:17:58.954,=C:\Users\willian_p_santin\Desktop\delphi\buscaCep\Unit1.pas</Transaction>
+    <Transaction>2023/05/13 10:20:27.042,C:\Users\willian_p_santin\Desktop\delphi\buscaCep\ConsultaWSCEP_U.pas=C:\Users\willian_p_santin\Desktop\delphi\buscaCep\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
